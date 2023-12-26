@@ -1,1 +1,1 @@
-alert("Please zoom out this page");
+// alert("Please zoom out this page");
